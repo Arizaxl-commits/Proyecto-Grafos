@@ -1,6 +1,6 @@
-# 🗺️ RutaBuga — Rutas Óptimas con Teoría de Grafos
+# 🗺️ Rutas Óptimas con Teoría de Grafos
 
-Aplicación web construida en **Python + Streamlit** que implementa tres algoritmos clásicos de teoría de grafos aplicados a las intersecciones de **Guadalajara de Buga, Valle del Cauca**.
+Aplicación web construida en **Python + Streamlit** que implementa tres algoritmos clásicos de teoría de grafos aplicados a las intersecciones.
 
 ---
 
@@ -25,8 +25,8 @@ Aplicación web construida en **Python + Streamlit** que implementa tres algorit
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU_USUARIO/rutabuga-grafos.git
-cd rutabuga-grafos
+git clone https://github.com/Arizaxl-commits/Proyecto-Grafos.git
+cd Proyecto-Grafos
 
 # 2. Crear entorno virtual (recomendado)
 python -m venv venv
@@ -59,7 +59,7 @@ Genera un reporte en consola y guarda `resultados_rendimiento.txt`.
 ## Estructura del proyecto
 
 ```
-rutabuga-grafos/
+Proyecto-Grafos/
 ├── app.py                  # Aplicación principal Streamlit
 ├── stress_test.py          # Script de pruebas de rendimiento
 ├── requirements.txt        # Dependencias
@@ -105,6 +105,6 @@ Genera grafos aleatorios de 5, 10 y 20 nodos y mide el tiempo de cada algoritmo.
 ---
 
 ## Autores
+Juan David Ariza Heredia 202551149-2724
+Desarrollado para la asignatura de **Matemáticas Discretas 2 / Teoría de Grafos**.  
 
-Desarrollado para la asignatura de **Matemáticas Discretas / Teoría de Grafos**.  
-Contexto: ciudad de **Guadalajara de Buga**, Valle del Cauca, Colombia.
